@@ -1,0 +1,4 @@
+
+select full_name, email from transaction_data
+where full_name like '%der%'
+or email like '%der%';
