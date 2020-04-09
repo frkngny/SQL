@@ -1,0 +1,2 @@
+select email, birthday from users
+where birthday between '1980-01-01' and '1989-12-31';
